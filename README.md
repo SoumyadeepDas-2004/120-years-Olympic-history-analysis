@@ -29,6 +29,7 @@ Matplotlib
 Seaborn
 
 🚀 How to View
+
 Simply open the .ipynb file (notebook) in any Jupyter Notebook environment.
 
 🏆 Acknowledgements
