@@ -21,15 +21,21 @@ The project helped reinforce essential data science skills including data cleani
 
 📊 Technologies Used
 Python
+
 Pandas
+
 Matplotlib
+
 Seaborn
 
 🚀 How to View
 Simply open the .ipynb file (notebook) in any Jupyter Notebook environment.
 
 🏆 Acknowledgements
+
 Dataset sourced from Kaggle: 120 Years of Olympic History.
+
 #️⃣ Tags
+
 #DataScience #EDA #Olympics #Kaggle #Python #Visualization
 
